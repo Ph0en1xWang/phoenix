@@ -1,3 +1,3 @@
 # phoenix
 
-This will be an new generation
+This will be a new generation
